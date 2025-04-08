@@ -5,7 +5,7 @@ A deep learning-based plant disease detection system trained using the **YOLOv11
 
 ---
 
-## 🧠 Classes Detected
+##  Classes Detected
 
 The model is trained to detect **7 plant classes**:
 
