@@ -24,7 +24,7 @@ The model is trained to detect **7 plant classes**:
 ### 🖥️ 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/plant-disease-yolo.git
+git clone https://github.com/aaron1-z/plant-disease-yolo.git
 cd plant-disease-yolo
 
 
